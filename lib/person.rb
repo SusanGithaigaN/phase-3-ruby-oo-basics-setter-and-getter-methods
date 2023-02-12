@@ -1,7 +1,7 @@
 class Person
     # name
     # setter method
-    def name=(name)
+    def name=name
         @name = name
     end
 
